@@ -4,7 +4,6 @@ import './globals.css'
 import '@google/model-viewer'
 
 export default function Home() {
-    {/*  */}
   return (
     //@ts-ignore
     <model-viewer
